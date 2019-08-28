@@ -1,0 +1,19 @@
+Ibegantocomparethe                                                                           18 : 20
+Ifeltwasimpossible.Or                                                                        21 : 40
+Theyseemedamazinglybusy.I                                                                    25 : 40
+andrulesinhisbody?                                                                           18 : 20
+anironcladorasteam                                                                           18 : 20
+asaman'sbrainsits                                                                            17 : 20
+askmyselfforthefirst                                                                         20 : 40
+begantoaskmyselfwhat                                                                         20 : 40
+didaMartiansitwithin                                                                         20 : 40
+each,ruling,directing,using,much                                                             32 : 40
+enginewouldseemtoan                                                                          19 : 20
+intelligentloweranimal.ThisIsMyAmazinglyLongStringToMakeYourExtractionOperatorWorkCorrectly. 92 : 100
+intelligentmechanisms?Suchathing                                                             32 : 40
+theycouldbe.Werethey                                                                         20 : 40
+thingstohumanmachines,to                                                                     24 : 40
+timeinmylifehow                                                                              15 : 20
+
+The number of instances created: 180
+The number of current instances: 17
